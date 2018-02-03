@@ -1,2 +1,1 @@
 # java-demo
-just demo
